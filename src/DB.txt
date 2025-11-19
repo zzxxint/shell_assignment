@@ -1,0 +1,2 @@
+INFO,choihyunjin,01048034960/20060814
+NOTE,20251121,shell assignment
